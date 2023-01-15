@@ -1,3 +1,3 @@
 # Beauty-Of-Halmahera
 
-<a href="#!" class="btn">Go to website</a>
+<a href="https://lukachyk.github.io/Beauty-Of-Halmahera/" class="btn">Go to website</a>
